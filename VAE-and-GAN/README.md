@@ -22,7 +22,7 @@
 ![VAE-model](https://github.com/tctsan/CNN-Projects/blob/master/VAE-and-GAN/image/VAE-model.png)
 
 </br>
-　Parameters:</br>
+　<b>Parameters:</b></br>
 　-- lambda_KL = 0.001　-- learning rate = 0.001　　-- batch size = 128　　-- epoch = 50</br>
 
 <h3>Training</h3>
@@ -49,7 +49,7 @@ Testing MSE = 0.261635</br></br>
 ![GAN-model](https://github.com/tctsan/CNN-Projects/blob/master/VAE-and-GAN/image/GAN-model.png)
 
 </br>
-　Parameters:</br>
+　<b>Parameters:</b></br>
 　-- learning rate of G = 0.001　　-- learning rate of D = 0.003　　-- batch size = 32　　-- epoch = 50</br>
 
 <h3>Training</h3>
@@ -75,7 +75,7 @@ Testing MSE = 0.261635</br></br>
 ![ACGAN-model](https://github.com/tctsan/CNN-Projects/blob/master/VAE-and-GAN/image/ACGAN-model.png)
 
 </br>
-　Parameters:</br>
+　<b>Parameters:</b></br>
 　-- learning rate of G = 0.001　　-- learning rate of D = 0.003　　-- batch size = 32　　-- epoch = 34</br>
 
 <h3>Training</h3>
