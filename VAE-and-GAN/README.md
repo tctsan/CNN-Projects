@@ -30,7 +30,7 @@
 ![VAE-training](https://github.com/tctsan/CNN-Projects/blob/master/VAE-and-GAN/image/VAE-training.gif)
 
 <h3>Learning Curve</h3>
-　MSE(Reconstruction loss) & KLD (KL divergence)</br>
+　MSE (Reconstruction loss) & KL Divergence</br>
 
 ![VAE-lr_curve](https://github.com/tctsan/CNN-Projects/blob/master/VAE-and-GAN/image/VAE-learning-curve.jpg)
 
