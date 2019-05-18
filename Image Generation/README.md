@@ -19,7 +19,7 @@
 
 <h3>Model</h3>
 
-![VAE-model](https://github.com/tctsan/CNN-Projects/blob/master/VAE-and-GAN/image/VAE-model.png)
+![VAE-model](./image/VAE-model.png)
 
 </br>
 　<b>Parameters:</b></br>
@@ -27,17 +27,17 @@
 
 <h3>Training</h3>
 
-![VAE-training](https://github.com/tctsan/CNN-Projects/blob/master/VAE-and-GAN/image/VAE-training.gif)
+![VAE-training](./image/VAE-training.gif)
 
 <h3>Learning Curve</h3>
 　MSE (Reconstruction loss) & KL Divergence</br>
 
-![VAE-lr_curve](https://github.com/tctsan/CNN-Projects/blob/master/VAE-and-GAN/image/VAE-learning-curve.jpg)
+![VAE-lr_curve](./image/VAE-learning-curve.jpg)
 
 <h3>Reconstruction Results</h3>
 　Testing Images & the Reconstructed Results</br></br>
 
-![VAE-results](https://github.com/tctsan/CNN-Projects/blob/master/VAE-and-GAN/image/VAE-results.jpg)
+![VAE-results](./image/VAE-results.jpg)
 
 </br>
 　Testing MSE = 0.261635</br></br>
@@ -47,7 +47,7 @@
 
 <h3>Model</h3>
 
-![GAN-model](https://github.com/tctsan/CNN-Projects/blob/master/VAE-and-GAN/image/GAN-model.png)
+![GAN-model](./image/GAN-model.png)
 
 </br>
 　<b>Parameters:</b></br>
@@ -55,17 +55,17 @@
 
 <h3>Training</h3>
 
-![GAN-training](https://github.com/tctsan/CNN-Projects/blob/master/VAE-and-GAN/image/GAN-training.gif)
+![GAN-training](./image/GAN-training.gif)
 
 <h3>Learning Curve</h3>
 　Training Loss & Accuracy
 
-![GAN-lr_curve](https://github.com/tctsan/CNN-Projects/blob/master/VAE-and-GAN/image/GAN-learning-curve.jpg)
+![GAN-lr_curve](./image/GAN-learning-curve.jpg)
 
 <h3>Generated Results</h3>
 　Random Generated Images</br></br>
 
-![GAN-results](https://github.com/tctsan/CNN-Projects/blob/master/VAE-and-GAN/image/GAN-results.jpg)
+![GAN-results](./image/GAN-results.jpg)
 
 </br>
 
@@ -73,7 +73,7 @@
 
 <h3>Model</h3>
 
-![ACGAN-model](https://github.com/tctsan/CNN-Projects/blob/master/VAE-and-GAN/image/ACGAN-model.png)
+![ACGAN-model](./image/ACGAN-model.png)
 
 </br>
 　<b>Parameters:</b></br>
@@ -83,17 +83,17 @@
 
 <h3>Training</h3>
 
-![ACGAN-training](https://github.com/tctsan/CNN-Projects/blob/master/VAE-and-GAN/image/ACGAN-training.gif)
+![ACGAN-training](./image/ACGAN-training.gif)
 
 <h3>Learning Curve</h3>
 　Training Loss of Attribute Classification and Accuracy of Discriminator 
 
-![ACGAN-lr_curve](https://github.com/tctsan/CNN-Projects/blob/master/VAE-and-GAN/image/ACGAN-learning-curve.jpg)
+![ACGAN-lr_curve](./image/ACGAN-learning-curve.jpg)
 
 <h3>Generated Results</h3>
 　Random Generated Images (Attribute: Smiling & No Smiling) </br></br>
 
-![ACGAN-results](https://github.com/tctsan/CNN-Projects/blob/master/VAE-and-GAN/image/ACGAN-results.jpg)
+![ACGAN-results](./ACGAN-results.jpg)
 
 </br>
 
