@@ -9,7 +9,7 @@
 
 <h3>Dataset</h3>
 
-![dataset](https://github.com/tctsan/CNN-Projects/blob/master/RNN/image/dataset.png)
+![dataset](./image/dataset.png)
 
 <ul>
   <li>Total 37 full-length videos (each 5-20 mins in 24 fps)</li>
@@ -28,7 +28,7 @@
 
 <h3>Model</h3>
 
-![CNN-model](https://github.com/tctsan/CNN-Projects/blob/master/RNN/image/CNN-model.png)
+![CNN-model](./image/CNN-model.png)
 
 　<b>Parameters:</b></br>
 　-- learning rate = 0.0001　　-- batch size = 64　　-- epoch = 30</br></br>
@@ -36,7 +36,7 @@
 <h3>Learning Curve</h3>
 　Training Loss, Training Accuracy & Validation Accuracy
 
-![CNN-lr_curve](https://github.com/tctsan/CNN-Projects/blob/master/RNN/image/CNN-learning-curve.jpg)
+![CNN-lr_curve](./image/CNN-learning-curve.jpg)
 
 　Training   Accuracy = 0.953125</br>
 　Validation Accuracy = 0.470019 (No significant improvement after accu=0.4)</br></br>
@@ -49,7 +49,7 @@
 
 <h3>Model</h3>
 
-![RNN-model](https://github.com/tctsan/CNN-Projects/blob/master/RNN/image/RNN-model.png)
+![RNN-model](./image/RNN-model.png)
 
 　<b>Parameters:</b></br>
 　-- learning rate = 0.0001　　-- batch size = 32　　-- epoch = 120</br></br>
@@ -57,14 +57,14 @@
 <h3>Learning Curve</h3>
 　Training Loss & Validation Accuracy
 
-![RNN-lr_curve](https://github.com/tctsan/CNN-Projects/blob/master/RNN/image/RNN-learning-curve.jpg)
+![RNN-lr_curve](./image/RNN-learning-curve.jpg)
 
 　Validation Accuracy = 0.458414</br></br>
 
 <h3>Feature Visualization</h3>
 　Visualize CNN-based video features and RNN-based video features to 2D space (with t-SNE)
 
-![feature-visual](https://github.com/tctsan/CNN-Projects/blob/master/RNN/image/feature-visualization.png)
+![feature-visual](./image/feature-visualization.png)
 
 </br>
 
@@ -75,7 +75,7 @@
 
 <h3>Model</h3>
 
-![RNN-seq2seq-model](https://github.com/tctsan/CNN-Projects/blob/master/RNN/image/RNN-seq2seq-model.png)
+![RNN-seq2seq-model](./image/RNN-seq2seq-model.png)
 
 　<b>Parameters:</b></br>
 　-- learning rate = 0.0001　　-- batch size = 64　　-- epoch = 120</br></br>
@@ -83,13 +83,13 @@
 <h3>Learning Curve</h3>
 　Training Loss, Training Accuracy & Validation Accuracy
 
-![RNN-seq2seq-lr_curve](https://github.com/tctsan/CNN-Projects/blob/master/RNN/image/RNN-seq2seq-learning-curve.jpg)
+![RNN-seq2seq-lr_curve](./image/RNN-seq2seq-learning-curve.jpg)
 
 　Validation Accuracy = 0.453187 (No significant improvement after accu=0.4)</br></br>
 
 <h3>Feature Visualization</h3>
 　Visualize the prediction result in comparison with the ground-truth labels</br></br>
 
-![RNN-seq2seq-visual](https://github.com/tctsan/CNN-Projects/blob/master/RNN/image/RNN-seq2seq-visualization.png)
+![RNN-seq2seq-visual](./image/RNN-seq2seq-visualization.png)
 
 　<b>Label 0</b> occupies almost all the predictions (need to improve...)
