@@ -35,7 +35,7 @@
 ![VAE-lr_curve](https://github.com/tctsan/CNN-Projects/blob/master/VAE-and-GAN/image/VAE-learning-curve.jpg)
 
 <h3>Reconstruction Results</h3>
-　Testing Images and the Reconstructed Results</br>
+　Testing Images and the Reconstructed Results</br></br>
 
 ![VAE-results](https://github.com/tctsan/CNN-Projects/blob/master/VAE-and-GAN/image/VAE-results.jpg)
 
