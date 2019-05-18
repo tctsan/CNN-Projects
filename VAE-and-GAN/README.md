@@ -35,7 +35,7 @@
 ![VAE-lr_curve](https://github.com/tctsan/CNN-Projects/blob/master/VAE-and-GAN/image/VAE-learning-curve.jpg)
 
 <h3>Reconstruction Results</h3>
-　Testing Images and the Reconstructed Results</br></br>
+　Testing Images & the Reconstructed Results</br></br>
 
 ![VAE-results](https://github.com/tctsan/CNN-Projects/blob/master/VAE-and-GAN/image/VAE-results.jpg)
 
@@ -58,7 +58,7 @@
 ![GAN-training](https://github.com/tctsan/CNN-Projects/blob/master/VAE-and-GAN/image/GAN-training.gif)
 
 <h3>Learning Curve</h3>
-　Training Loss and Accuracy
+　Training Loss & Accuracy
 
 ![GAN-lr_curve](https://github.com/tctsan/CNN-Projects/blob/master/VAE-and-GAN/image/GAN-learning-curve.jpg)
 
@@ -91,7 +91,7 @@
 ![ACGAN-lr_curve](https://github.com/tctsan/CNN-Projects/blob/master/VAE-and-GAN/image/ACGAN-learning-curve.jpg)
 
 <h3>Generated Results</h3>
-　Random Generated Images (Attribute: Smiling and No Smiling) </br></br>
+　Random Generated Images (Attribute: Smiling & No Smiling) </br></br>
 
 ![ACGAN-results](https://github.com/tctsan/CNN-Projects/blob/master/VAE-and-GAN/image/ACGAN-results.jpg)
 
