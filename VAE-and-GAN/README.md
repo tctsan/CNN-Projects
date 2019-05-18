@@ -77,7 +77,9 @@
 
 </br>
 　<b>Parameters:</b></br>
-　-- learning rate of G = 0.001　　-- learning rate of D = 0.003　　-- batch size = 32　　-- epoch = 34</br>
+　-- learning rate of G = 0.001　　-- learning rate of D = 0.003　　-- batch size = 32　　-- epoch = 34</br></br>
+
+　<b>Attribute:</b> Smiling</br>
 
 <h3>Training</h3>
 
