@@ -31,7 +31,6 @@
 
 ![CNN-model](https://github.com/tctsan/CNN-Projects/blob/master/RNN/image/CNN-model.png)
 
-</br>
 　<b>Parameters:</b></br>
 　-- learning rate = 0.0001　　-- batch size = 64　　-- epoch = 30</br></br>
 
@@ -40,8 +39,7 @@
 
 ![CNN-lr_curve](https://github.com/tctsan/CNN-Projects/blob/master/RNN/image/CNN-learning-curve.jpg)
 
-</br>
-　Training Accuracy = 0.953125
+　Training Accuracy = 0.953125</br>
 　Validation Accuracy = 0.470019 (No significant improvement after accu=0.4)</br></br>
 
 
@@ -54,7 +52,6 @@
 
 ![RNN-model](https://github.com/tctsan/CNN-Projects/blob/master/RNN/image/RNN-model.png)
 
-</br>
 　<b>Parameters:</b></br>
 　-- learning rate = 0.0001　　-- batch size = 32　　-- epoch = 120</br></br>
 
@@ -63,7 +60,6 @@
 
 ![RNN-lr_curve](https://github.com/tctsan/CNN-Projects/blob/master/RNN/image/RNN-learning-curve.jpg)
 
-</br>
 　Validation Accuracy = 0.458414</br></br>
 
 <h3>Feature Visualization</h3>
@@ -82,7 +78,6 @@
 
 ![RNN-seq2seq-model](https://github.com/tctsan/CNN-Projects/blob/master/RNN/image/RNN-seq2seq-model.png)
 
-</br>
 　<b>Parameters:</b></br>
 　-- learning rate = 0.0001　　-- batch size = 64　　-- epoch = 120</br></br>
 
@@ -91,7 +86,6 @@
 
 ![RNN-seq2seq-lr_curve](https://github.com/tctsan/CNN-Projects/blob/master/RNN/image/RNN-seq2seq-learning-curve.jpg)
 
-</br>
 　Validation Accuracy = 0.453187 (No significant improvement after accu=0.4)</br></br>
 
 <h3>Feature Visualization</h3>
@@ -99,5 +93,4 @@
 
 ![RNN-seq2seq-visual](https://github.com/tctsan/CNN-Projects/blob/master/RNN/image/RNN-seq2seq-visualization.png)
 
-</br>
-　Label 0 occupies almost all the predictions (need to improve...)
+　<b>Label 0</b> occupies almost all the predictions (need to improve...)
