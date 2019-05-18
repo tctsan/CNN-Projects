@@ -88,7 +88,7 @@
 　Validation Accuracy = 0.453187 (No significant improvement after accu=0.4)</br></br>
 
 <h3>Feature Visualization</h3>
-　Visualize the prediction result in comparison with the ground-truth
+　Visualize the prediction result in comparison with the ground-truth</br>
 
 ![RNN-seq2seq-visual](https://github.com/tctsan/CNN-Projects/blob/master/RNN/image/RNN-seq2seq-visualization.png)
 
