@@ -11,7 +11,6 @@
 
 ![dataset](https://github.com/tctsan/CNN-Projects/blob/master/RNN/image/dataset.png)
 
-</br>
 <ul>
   <li>Total 37 full-length videos (each 5-20 mins in 24 fps)</li>
   <li>Split into 4151 trimmed videos (each 5-20 secs in 24 fps)</li>
@@ -39,7 +38,7 @@
 
 ![CNN-lr_curve](https://github.com/tctsan/CNN-Projects/blob/master/RNN/image/CNN-learning-curve.jpg)
 
-　Training Accuracy = 0.953125</br>
+　Training   Accuracy = 0.953125</br>
 　Validation Accuracy = 0.470019 (No significant improvement after accu=0.4)</br></br>
 
 
