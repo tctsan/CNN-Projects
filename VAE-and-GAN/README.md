@@ -39,7 +39,8 @@
 
 ![VAE-results](https://github.com/tctsan/CNN-Projects/blob/master/VAE-and-GAN/image/VAE-results.jpg)
 
-Testing MSE = 0.261635</br></br>
+</br>
+　Testing MSE = 0.261635</br></br>
 
 
 <h2>GAN (Generative Adversarial Network)</h2>
@@ -62,7 +63,7 @@ Testing MSE = 0.261635</br></br>
 ![GAN-lr_curve](https://github.com/tctsan/CNN-Projects/blob/master/VAE-and-GAN/image/GAN-learning-curve.jpg)
 
 <h3>Generated Results</h3>
-　Random Generated Images</br>
+　Random Generated Images</br></br>
 
 ![GAN-results](https://github.com/tctsan/CNN-Projects/blob/master/VAE-and-GAN/image/GAN-results.jpg)
 
@@ -88,7 +89,7 @@ Testing MSE = 0.261635</br></br>
 ![ACGAN-lr_curve](https://github.com/tctsan/CNN-Projects/blob/master/VAE-and-GAN/image/ACGAN-learning-curve.jpg)
 
 <h3>Generated Results</h3>
-　Random Generated Images (Attribute: Smiling and No Smiling) </br>
+　Random Generated Images (Attribute: Smiling and No Smiling) </br></br>
 
 ![ACGAN-results](https://github.com/tctsan/CNN-Projects/blob/master/VAE-and-GAN/image/ACGAN-results.jpg)
 
