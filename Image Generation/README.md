@@ -93,7 +93,7 @@
 <h3>Generated Results</h3>
 　Random Generated Images (Attribute: Smiling & No Smiling) </br></br>
 
-![ACGAN-results](./ACGAN-results.jpg)
+![ACGAN-results](./image/ACGAN-results.jpg)
 
 </br>
 
