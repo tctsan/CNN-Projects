@@ -84,8 +84,6 @@
   </ul>
 </ul>
 
-![cifar100-dataset](https://cdn-images-1.medium.com/max/935/1*fTQtXyApxWPoW2vzSEk_Pw.png)
-
 <h3>Method : Triplet Network + KNN</h3>
 
 <img src="./image/fig_task2_method.png" alt="task2-method" width="70%" height="70%">
