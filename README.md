@@ -1,6 +1,6 @@
 # CNN-Projects
 
-Implement Convolutional Neural Network Project in TensorFlow</br></br>
+Implement Convolutional Neural Network Projects in TensorFlow</br></br>
 
 <h2>Handwritten Digit Recognition</h2>
 <ul>
