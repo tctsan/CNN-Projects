@@ -4,7 +4,7 @@ Implement Convolutional Neural Network Project in TensorFlow</br></br>
 
 <h2>Handwritten Digit Recognition</h2>
 <ul>
-  <li>Build a CNN model and train it on MNIST dataset</li>
+  <li>Build a CNN model and train it on <b>MNIST</b> dataset</li>
   <li>Visualize the filter in different layers</li>
   <li>Visualize the low-level and high-level features</li>
 </ul>
@@ -12,14 +12,14 @@ Implement Convolutional Neural Network Project in TensorFlow</br></br>
 
 <h2>Object Recognition</h2>
 <ul>
-  <li>Training with a Small Amount of Data</li>
-  <li>One-Shot / Few-Shot / Low-Shot Learning</li>
+  <li>Training with a Small Amount of Data (<b>Fashion MNIST</b>)</li>
+  <li>One-Shot / Few-Shot / Low-Shot Learning (<b>Cifar-100</b>)</li>
 </ul>
 </br>
 
 <h2>Image Generation</h2>
 <ul>
-  <li>Ability to handle large-scale human face data with deep neural network</li>
+  <li>Ability to handle large-scale human face data (<b>CelebA</b>) with deep neural network</li>
   <li>Learn and implement well-known image generation models</li>
   <li>Gain experience of adversarial training</li>
   <li>Supervised/unsupervised feature disentanglement</li>
