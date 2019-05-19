@@ -139,10 +139,9 @@
 
 　k : Number of neighbors in KNN
 
-</br>
 
 <h3>Visualization (t-SNE)</h3>
-　<b>1 shot</b></br>
+　<b>1 shot</b></br></br>
 
 <img src="./image/fig_task2_visualization_tsne_1_shot.jpg" alt="task2-visualize-1-shot" width="80%" height="80%">
 
