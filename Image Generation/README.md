@@ -11,7 +11,7 @@
 
 <h3>Dataset</h3>
 <ul>
-  <li><b>CelebA</b>: http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html</li>
+  <li><b>CelebA</b> : http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html</li>
 </ul>
 </br>
 
