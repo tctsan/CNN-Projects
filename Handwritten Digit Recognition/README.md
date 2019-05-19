@@ -23,7 +23,7 @@
 <h3>Learning Curve</h3>
 　Training Accuracy & Loss</br></br>
  
-![CNN-lr-curve](./image/learning curves.png)
+![CNN-lr-curve](./image/learning_curves.png)
 
 　Training   Accuracy = 1.0</br>
 　Validation Accuracy = 0.9928</br></br>
@@ -31,22 +31,21 @@
 <h3>Filter Visualization</h3>
 　The first convolutional layers (total 32 filters)</br>
 
-![filter-visual-first](./image/filter_visualization_conv_first.png)
+![filter-visual-first](./image/filter_visualization_conv_first.jpg)
 
 　The last convolutional layers (total 128 filters)</br>
 
-![filter-visual-last](./image/filter_visualization_conv_last.png)
+![filter-visual-last](./image/filter_visualization_conv_last.jpg)
 
 <h3>Feature Visualization</h3>
-　The Low-Level Features</br>
+　The Low-Level Features
  
 ![feature-visual-low](./image/features_visualization_low-level.jpg)
 
-　The High-Level Features</br>
+　The High-Level Features
  
 ![feature-visual-high](./image/features_visualization_high-level.jpg)
 
-</br>
 
 <h2>References</h2>
 
