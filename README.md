@@ -1,5 +1,7 @@
 # CNN-Projects
 
+Implement Convolutional Neural Network Project in TensorFlow</br></br>
+
 <h2>Handwritten Digit Recognition</h2>
 <ul>
   <li>Build a CNN model and train it on MNIST dataset</li>
